@@ -5,4 +5,3 @@ export default function AboutUsPage(props) {
     <div>A little info about us.</div>
   );
 }
-

@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Strait&display=swap');
+.footer {
+    background-color: #212226;
+}
+
+hr {
+    /* border: "5px solid #FFF"; */
+    border: none;
+    height: 1px;
+    margin:auto;
+    width: 75%;
+    background-color: #FFF;
+    margin-bottom: 2%;
+}
+
+.copyright {
+    font-family: 'Strait', sans-serif;
+    color: #FFF;
+    padding-bottom: 1%;
+}
+
+.appLogo {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.teamLogo {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.logoImg {
+    width: 7.5%;
+}
